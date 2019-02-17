@@ -1,4 +1,5 @@
-Controls: WASD to move
+Controls: WASD or arrow keys to move
+Rotate the camera: Q and E
 
 3D assets used: https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870
 

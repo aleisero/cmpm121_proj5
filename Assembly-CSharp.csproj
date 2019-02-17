@@ -63,6 +63,7 @@
     <Compile Include="Assets\collectableScript.cs" />
     <Compile Include="Assets\doorMove.cs" />
     <Compile Include="Assets\movement.cs" />
+    <Compile Include="Assets\prizeScript.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />

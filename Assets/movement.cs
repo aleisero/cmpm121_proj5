@@ -40,11 +40,11 @@ public class movement : MonoBehaviour
         //camera controls - rotate capsule
         //A to rotate camera left 
         //D to rotate camera
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.Q))
         {
             transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y - Mathf.PI - 0.2f, transform.eulerAngles.z);
         }
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.E))
         {
             transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y + Mathf.PI + 0.2f, transform.eulerAngles.z);
         }
