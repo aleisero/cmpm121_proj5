@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-02-16T15:16:11.038-08:00
-  initializedAtString: 2019-02-16T14:08:06.104-08:00
+  lastUpdatedAtString: 2019-02-16T15:21:54.028-08:00
+  initializedAtString: 2019-02-16T15:21:54.028-08:00
   currentGitRemote:
     name: origin
     url: https://github.com/aleisero/cmpm121_proj5.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/aleisero/cmpm121_proj5.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/aleisero/cmpm121_proj5.git

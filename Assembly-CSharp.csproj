@@ -60,7 +60,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\collectables.cs" />
+    <Compile Include="Assets\collectableScript.cs" />
+    <Compile Include="Assets\doorMove.cs" />
     <Compile Include="Assets\movement.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
