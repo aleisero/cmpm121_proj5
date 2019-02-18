@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-02-18T14:51:01.102-08:00
-  initializedAtString: 2019-02-18T14:07:42.027-08:00
+  lastUpdatedAtString: 2019-02-18T15:31:35.369-08:00
+  initializedAtString: 2019-02-18T14:56:50.686-08:00
   entries:
   - path: .vs\Animations - Leiserowitz\v15\.suo
     fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\.vs\Animations
@@ -43,25 +43,29 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Animations UI.png
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\Animations
-      UI.png
-    projectPath: Assets\Animations UI.png
+  - path: Assets\Coin.prefab
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\Coin.prefab
+    projectPath: Assets\Coin.prefab
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Animations UI.png.meta
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\Animations
-      UI.png.meta
-    projectPath: Assets\Animations UI.png.meta
+  - path: Assets\Coin.prefab.meta
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\Coin.prefab.meta
+    projectPath: Assets\Coin.prefab.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\prizeScript.cs
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\prizeScript.cs
-    projectPath: Assets\prizeScript.cs
+  - path: Assets\coinScript.cs
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\coinScript.cs
+    projectPath: Assets\coinScript.cs
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Assets\coinScript.cs.meta
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\coinScript.cs.meta
+    projectPath: Assets\coinScript.cs.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: Assets\Scenes\SampleScene.unity
     fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\Scenes\SampleScene.unity
@@ -73,13 +77,7 @@ MonoBehaviour:
     fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\UIcontroller.cs
     projectPath: Assets\UIcontroller.cs
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\UIcontroller.cs.meta
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Assets\UIcontroller.cs.meta
-    projectPath: Assets\UIcontroller.cs.meta
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\assetDatabase3
@@ -127,31 +125,31 @@ MonoBehaviour:
     fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\metadata\19\19ced8fb9d6271b4dbf60be71b579f10
     projectPath: Library\metadata\19\19ced8fb9d6271b4dbf60be71b579f10
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\19\19ced8fb9d6271b4dbf60be71b579f10.info
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\metadata\19\19ced8fb9d6271b4dbf60be71b579f10.info
-    projectPath: Library\metadata\19\19ced8fb9d6271b4dbf60be71b579f10.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\43\43e7cc4a7542c4f43a53dac4761d7fd8
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\metadata\43\43e7cc4a7542c4f43a53dac4761d7fd8
-    projectPath: Library\metadata\43\43e7cc4a7542c4f43a53dac4761d7fd8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\43\43e7cc4a7542c4f43a53dac4761d7fd8.info
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\metadata\43\43e7cc4a7542c4f43a53dac4761d7fd8.info
-    projectPath: Library\metadata\43\43e7cc4a7542c4f43a53dac4761d7fd8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\51\51a0f397acb38ba4fb05a4975da955f5
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\metadata\51\51a0f397acb38ba4fb05a4975da955f5
-    projectPath: Library\metadata\51\51a0f397acb38ba4fb05a4975da955f5
-    originalPath: 
     status: 3
+    staged: 0
+  - path: Library\metadata\27\277c39816be08504c941d01e8e53a741
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\metadata\27\277c39816be08504c941d01e8e53a741
+    projectPath: Library\metadata\27\277c39816be08504c941d01e8e53a741
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\27\277c39816be08504c941d01e8e53a741.info
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\metadata\27\277c39816be08504c941d01e8e53a741.info
+    projectPath: Library\metadata\27\277c39816be08504c941d01e8e53a741.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\82\82a9692169b68d94a87b2167d1a00952
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\metadata\82\82a9692169b68d94a87b2167d1a00952
+    projectPath: Library\metadata\82\82a9692169b68d94a87b2167d1a00952
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\82\82a9692169b68d94a87b2167d1a00952.info
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\metadata\82\82a9692169b68d94a87b2167d1a00952.info
+    projectPath: Library\metadata\82\82a9692169b68d94a87b2167d1a00952.info
+    originalPath: 
+    status: 1
     staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -165,35 +163,77 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\ShaderCache\6\63793b4b96ef36203b8d8a7254cb0b0a.bin
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\ShaderCache\6\63793b4b96ef36203b8d8a7254cb0b0a.bin
-    projectPath: Library\ShaderCache\6\63793b4b96ef36203b8d8a7254cb0b0a.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\7\7c55024901f570ea139064159b86fef4.bin
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\ShaderCache\7\7c55024901f570ea139064159b86fef4.bin
-    projectPath: Library\ShaderCache\7\7c55024901f570ea139064159b86fef4.bin
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\StateCache\Hierarchy\51bb0f-25809402540c8c54fb.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\Hierarchy\51bb0f-25809402540c8c54fb.json
+    projectPath: Library\StateCache\Hierarchy\51bb0f-25809402540c8c54fb.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\51bb0f-mainStage.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\Hierarchy\51bb0f-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\51bb0f-mainStage.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\bb5cc2-0e74cf81e6fd82546b.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\Hierarchy\bb5cc2-0e74cf81e6fd82546b.json
+    projectPath: Library\StateCache\Hierarchy\bb5cc2-0e74cf81e6fd82546b.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\bb5cc2-25809402540c8c54fb.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\Hierarchy\bb5cc2-25809402540c8c54fb.json
+    projectPath: Library\StateCache\Hierarchy\bb5cc2-25809402540c8c54fb.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\bb5cc2-313ad0ef31f75b84f9.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\Hierarchy\bb5cc2-313ad0ef31f75b84f9.json
+    projectPath: Library\StateCache\Hierarchy\bb5cc2-313ad0ef31f75b84f9.json
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Library\StateCache\Hierarchy\bb5cc2-mainStage.json
     fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\Hierarchy\bb5cc2-mainStage.json
     projectPath: Library\StateCache\Hierarchy\bb5cc2-mainStage.json
     originalPath: 
     status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\7e7ef7-25809402540c8c54fb.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\SceneView\7e7ef7-25809402540c8c54fb.json
+    projectPath: Library\StateCache\SceneView\7e7ef7-25809402540c8c54fb.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\7e7ef7-mainStage.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\SceneView\7e7ef7-mainStage.json
+    projectPath: Library\StateCache\SceneView\7e7ef7-mainStage.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\e79d8d-0e74cf81e6fd82546b.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\SceneView\e79d8d-0e74cf81e6fd82546b.json
+    projectPath: Library\StateCache\SceneView\e79d8d-0e74cf81e6fd82546b.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\e79d8d-25809402540c8c54fb.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\SceneView\e79d8d-25809402540c8c54fb.json
+    projectPath: Library\StateCache\SceneView\e79d8d-25809402540c8c54fb.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\e79d8d-313ad0ef31f75b84f9.json
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\SceneView\e79d8d-313ad0ef31f75b84f9.json
+    projectPath: Library\StateCache\SceneView\e79d8d-313ad0ef31f75b84f9.json
+    originalPath: 
+    status: 1
     staged: 0
   - path: Library\StateCache\SceneView\e79d8d-mainStage.json
     fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Library\StateCache\SceneView\e79d8d-mainStage.json
@@ -207,9 +247,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
+  - path: README.txt
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\README.txt
+    projectPath: README.txt
     originalPath: 
     status: 3
     staged: 0
@@ -231,69 +271,51 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-0a2f128a1a85d7348a8854c807c82095
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-0a2f128a1a85d7348a8854c807c82095
-    projectPath: Temp\UnityTempFile-0a2f128a1a85d7348a8854c807c82095
+  - path: Temp\UnityTempFile-04c108101de51a04ba4250ddf839081b
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-04c108101de51a04ba4250ddf839081b
+    projectPath: Temp\UnityTempFile-04c108101de51a04ba4250ddf839081b
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-14b16d62bc9b1364490d2def362b84ab
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-14b16d62bc9b1364490d2def362b84ab
-    projectPath: Temp\UnityTempFile-14b16d62bc9b1364490d2def362b84ab
+  - path: Temp\UnityTempFile-41459bf0d79d0464a921b04c9dcca773
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-41459bf0d79d0464a921b04c9dcca773
+    projectPath: Temp\UnityTempFile-41459bf0d79d0464a921b04c9dcca773
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-38192b53d26ca554aaf600d54447ad5c
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-38192b53d26ca554aaf600d54447ad5c
-    projectPath: Temp\UnityTempFile-38192b53d26ca554aaf600d54447ad5c
+  - path: Temp\UnityTempFile-4fa8b09f3373b2e4a82034a00da5b858
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-4fa8b09f3373b2e4a82034a00da5b858
+    projectPath: Temp\UnityTempFile-4fa8b09f3373b2e4a82034a00da5b858
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-4cbe2ada35eeeb34fa9c5fd6327d7bd3
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-4cbe2ada35eeeb34fa9c5fd6327d7bd3
-    projectPath: Temp\UnityTempFile-4cbe2ada35eeeb34fa9c5fd6327d7bd3
+  - path: Temp\UnityTempFile-687d920f3e5eeac4c88dc2c1be3f0467
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-687d920f3e5eeac4c88dc2c1be3f0467
+    projectPath: Temp\UnityTempFile-687d920f3e5eeac4c88dc2c1be3f0467
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-590dacfbb935c9440a652850c75d45a9
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-590dacfbb935c9440a652850c75d45a9
-    projectPath: Temp\UnityTempFile-590dacfbb935c9440a652850c75d45a9
+  - path: Temp\UnityTempFile-82569efdfde6fcd4483987d0506fae1f
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-82569efdfde6fcd4483987d0506fae1f
+    projectPath: Temp\UnityTempFile-82569efdfde6fcd4483987d0506fae1f
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-5b0db3a8223eb0c48a130cbe6082c768
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-5b0db3a8223eb0c48a130cbe6082c768
-    projectPath: Temp\UnityTempFile-5b0db3a8223eb0c48a130cbe6082c768
+  - path: Temp\UnityTempFile-b50e2b4e52bb7c24a9634936efedef54
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-b50e2b4e52bb7c24a9634936efedef54
+    projectPath: Temp\UnityTempFile-b50e2b4e52bb7c24a9634936efedef54
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-62ec9bc8b807dc44ab21b70fe04c8ca6
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-62ec9bc8b807dc44ab21b70fe04c8ca6
-    projectPath: Temp\UnityTempFile-62ec9bc8b807dc44ab21b70fe04c8ca6
+  - path: Temp\UnityTempFile-c2b820ad83453d940a1a68afddee31d0
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-c2b820ad83453d940a1a68afddee31d0
+    projectPath: Temp\UnityTempFile-c2b820ad83453d940a1a68afddee31d0
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-b3de459dda707c64e9255d28ee5f0879
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-b3de459dda707c64e9255d28ee5f0879
-    projectPath: Temp\UnityTempFile-b3de459dda707c64e9255d28ee5f0879
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-bdc1f751a547ec54ab85ba604292cac7
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-bdc1f751a547ec54ab85ba604292cac7
-    projectPath: Temp\UnityTempFile-bdc1f751a547ec54ab85ba604292cac7
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-d6b14d74e3e460d45acc6007b17d6046
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-d6b14d74e3e460d45acc6007b17d6046
-    projectPath: Temp\UnityTempFile-d6b14d74e3e460d45acc6007b17d6046
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-f360cc0a67e12694cb4d757f1ff61daa
-    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-f360cc0a67e12694cb4d757f1ff61daa
-    projectPath: Temp\UnityTempFile-f360cc0a67e12694cb4d757f1ff61daa
+  - path: Temp\UnityTempFile-dd9e62c8f3d2e62418f922a9d90171d4
+    fullPath: C:\Users\oreoc\Documents\Unity HW\Animations - Leiserowitz\Temp\UnityTempFile-dd9e62c8f3d2e62418f922a9d90171d4
+    projectPath: Temp\UnityTempFile-dd9e62c8f3d2e62418f922a9d90171d4
     originalPath: 
     status: 1
     staged: 0

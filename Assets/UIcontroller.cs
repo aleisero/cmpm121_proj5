@@ -14,12 +14,12 @@ public class UIcontroller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown("space") && UIon)
+        if (Input.GetKeyDown(KeyCode.P) && UIon)
         {
             UIon = false;
             UI.SetActive(false);
         }
-        else if (Input.GetKeyDown("space") && UIon == false)
+        else if (Input.GetKeyDown(KeyCode.P) && UIon == false)
         {
             UIon = true;
             UI.SetActive(true);

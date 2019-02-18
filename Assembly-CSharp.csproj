@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\coinScript.cs" />
     <Compile Include="Assets\collectableScript.cs" />
     <Compile Include="Assets\doorMove.cs" />
     <Compile Include="Assets\movement.cs" />
