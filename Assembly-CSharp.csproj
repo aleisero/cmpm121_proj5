@@ -67,6 +67,7 @@
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
+    <Compile Include="Assets\UIcontroller.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/oreoc/Documents/Unity HW/Animations - Leiserowitz/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

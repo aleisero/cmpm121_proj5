@@ -7,10 +7,13 @@ public class prizeScript : MonoBehaviour
 
     private int delay = 0;
     private bool okPickUp = true;
+    private GameObject UI;
 
     private void Start()
     {
         this.GetComponent<ParticleSystem>().Stop();
+
+        UI = GameObject.FindWithTag("Title");
     }
 
     private void Update()
@@ -33,6 +36,13 @@ public class prizeScript : MonoBehaviour
             this.GetComponent<ParticleSystem>().Play();
 
             gameObject.GetComponent<MeshRenderer>().enabled = false;
+
+            Invoke("TurnOnUI", 3);
         }
+    }
+
+    private void TurnOnUI()
+    {
+        UI.SetActive(true);
     }
 }
